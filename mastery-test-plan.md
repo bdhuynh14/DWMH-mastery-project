@@ -1,4 +1,4 @@
-## Test Plan
+## Test Plan for project
 
 * [ ] On startup, the application displays a menu containing the following items:
   * View Reservations
